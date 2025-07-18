@@ -2,6 +2,11 @@
 
 - create vite react app ( npm create @vite/latest)
 - install tailwind in project (followed tailwind website)
+- install react-router (npm i -D react-router-dom)
+- Header
+
+- 
+
 
 
 # Features
@@ -20,3 +25,5 @@
 - Netflix GPT
     - Search Bar
     - Movie Suggestions
+
+
